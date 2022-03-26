@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviesAppMVP</string>
+    <string name="exit">Exit</string>
+    <string name="all">All Movies</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="fav">Favorite Movies</string>
+    <string name="add">Add to Favorite</string>
+    <string name="delete">Delete Movie</string>
+</resources>
